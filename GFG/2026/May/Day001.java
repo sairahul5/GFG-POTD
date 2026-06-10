@@ -1,6 +1,6 @@
 package GFG.2026.May;
 
-public class Day001 {
+public class Day001 {//Day001
     class Solution {
     
     static long attackCount(int n,int m){
