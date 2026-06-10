@@ -1,5 +1,5 @@
 class Solution {
-    static boolean search(int a[],int left,int right,int key){
+    static boolean search(int a[],int left,int right,int key){ //binary search
         while(left<=right){
             int mid = left + (right-left)/2;
             if(a[mid]==key){
